@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": false,
+    "C_Cpp.default.compilerPath": "C:/Users/akali/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe"
+}
